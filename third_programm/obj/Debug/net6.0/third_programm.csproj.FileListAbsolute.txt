@@ -1,0 +1,15 @@
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.csproj.AssemblyReference.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.AssemblyInfoInputs.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.AssemblyInfo.cs
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.csproj.CoreCompileInputs.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/bin/Debug/net6.0/third_programm
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/bin/Debug/net6.0/third_programm.deps.json
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/bin/Debug/net6.0/third_programm.runtimeconfig.json
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/bin/Debug/net6.0/third_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/bin/Debug/net6.0/third_programm.pdb
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/refint/third_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.pdb
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/third_programm.genruntimeconfig.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/third_programm/obj/Debug/net6.0/ref/third_programm.dll

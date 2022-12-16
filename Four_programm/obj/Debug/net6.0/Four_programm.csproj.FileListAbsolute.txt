@@ -1,0 +1,15 @@
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.csproj.AssemblyReference.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.AssemblyInfoInputs.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.AssemblyInfo.cs
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.csproj.CoreCompileInputs.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/bin/Debug/net6.0/Four_programm
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/bin/Debug/net6.0/Four_programm.deps.json
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/bin/Debug/net6.0/Four_programm.runtimeconfig.json
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/bin/Debug/net6.0/Four_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/bin/Debug/net6.0/Four_programm.pdb
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/refint/Four_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.pdb
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/Four_programm.genruntimeconfig.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/Four_programm/obj/Debug/net6.0/ref/Four_programm.dll

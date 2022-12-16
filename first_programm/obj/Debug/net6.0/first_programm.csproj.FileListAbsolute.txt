@@ -1,0 +1,15 @@
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/bin/Debug/net6.0/first_programm
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/bin/Debug/net6.0/first_programm.deps.json
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/bin/Debug/net6.0/first_programm.runtimeconfig.json
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/bin/Debug/net6.0/first_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/bin/Debug/net6.0/first_programm.pdb
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.csproj.AssemblyReference.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.AssemblyInfoInputs.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.AssemblyInfo.cs
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.csproj.CoreCompileInputs.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/refint/first_programm.dll
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.pdb
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/first_programm.genruntimeconfig.cache
+/Users/Bogdanfadeev/Desktop/Homework_1/first_programm/obj/Debug/net6.0/ref/first_programm.dll
